@@ -1,4 +1,5 @@
-var figlet = Noderequire('figlet');
+import figlet from "figlet";
+
 
 figlet('Hello World!!', function(err, data) {
     if (err) {
