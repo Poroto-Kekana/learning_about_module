@@ -1,4 +1,4 @@
 export default function greet(name){
-    return "Hello, " + name + " - from ES modules";
+    return "Hello, " + name + " - From Chalk colourful External Modules";
 };
 
